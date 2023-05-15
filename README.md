@@ -4,9 +4,9 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/KayleyAileen/Google-clone/edit/main/README.md#intro)
-* [ 2. Qué construí]()
-* [3. Objetivos del proyecto]()
-* [4. Link al demo]()
+* [ 2. Qué construí](https://github.com/KayleyAileen/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [3. Objetivos del proyecto](https://github.com/KayleyAileen/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [4. Link al demo](https://github.com/KayleyAileen/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
 
 ***
 ## INTRO
@@ -26,4 +26,4 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes de base de un sitio web, para analizarlas y replicarlas.
 
 ## Link al DEMO!
-Visualiza mi proyecto terminado aquí [Clonación de Google] ()
+Visualiza mi proyecto terminado aquí [Clonación de Google] (https://github.com/KayleyAileen/Google-clone)
